@@ -54,6 +54,7 @@ I build a family of **free web tools**. Most of them run **100% in your browser*
 | [STLGenie](https://stlgenie.shop/) | Image to STL — turn photos into 3D printable models |
 | [Suno Downloader](https://sunodownloader.best/) | Save public Suno songs as M4A or MP4 (5 free/day) |
 | [ChansonPerso](https://chansonperso.shop/) | Chansons personnalisées — custom French songs as gifts (FR) |
+| [OurBaby](https://ourbaby.shop/) | AI baby & family photos — two parent photos in, imagined baby portrait out (1 free/day) |
 
 ## Why local-first?
 

@@ -55,6 +55,12 @@ I build a family of **free web tools**. Most of them run **100% in your browser*
 | [Suno Downloader](https://sunodownloader.best/) | Save public Suno songs as M4A or MP4 (5 free/day) |
 | [ChansonPerso](https://chansonperso.shop/) | Chansons personnalisées — custom French songs as gifts (FR) |
 | [OurBaby](https://ourbaby.shop/) | AI baby & family photos — two parent photos in, imagined baby portrait out (1 free/day) |
+| [Bible Verse Generator](https://bibleversegenerator.best/) | Every Bible verse in KJV and WEB — search, topics and daily verses |
+| [ZombieVideo](https://zombievideo.best/) | Turn a couple photo into an AI zombie transformation video |
+| [CleaningCalcs](https://cleaningcalcs.best/) | Cleaning price calculators by service, city and home size |
+| [DanceGenerator](https://dancegenerator.best/) | Turn one photo into a dance video — six styles, music included |
+| [AISVG Pro](https://aisvgpro.com/) | AI SVG generator — text and images to cut-ready vector files |
+| [MerchantCapitalGuide](https://merchantcapitalguide.com/) | MCA cost calculators and small-business funding guides |
 
 ## Why local-first?
 

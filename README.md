@@ -61,6 +61,7 @@ I build a family of **free web tools**. Most of them run **100% in your browser*
 | [DanceGenerator](https://dancegenerator.best/) | Turn one photo into a dance video — six styles, music included |
 | [AISVG Pro](https://aisvgpro.com/) | AI SVG generator — text and images to cut-ready vector files |
 | [MerchantCapitalGuide](https://merchantcapitalguide.com/) | MCA cost calculators and small-business funding guides |
+| [Dhammatools](https://dhammatools.com/) | The Dhammapada in Pali and English — 423 verses, finder by feeling |
 
 ## Why local-first?
 
